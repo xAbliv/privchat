@@ -1,1 +1,1 @@
-chat
+<p>chat</p>
